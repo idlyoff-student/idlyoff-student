@@ -16,3 +16,5 @@ while True:
 
 result_string = ''.join(char_list)
 print("Результат:", result_string)
+
+#cringe code
